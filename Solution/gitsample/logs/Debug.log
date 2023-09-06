@@ -1,0 +1,73 @@
+[2023-09-05 17:27:13.007]  [2023-09-05 17:27:13.007] ==============================================
+[2023-09-05 17:27:13.008]  [2023-09-05 17:27:13.008] ['DEBUG_4' 'null' 'none' 'none' 'none' 'none'], Query String null
+[2023-09-05 17:27:13.011]  [2023-09-05 17:27:13.011] ==============================================
+[2023-09-05 17:27:13.011]  [2023-09-05 17:27:13.011] ['DEBUG_3' 'null' 'none' 'none' 'none' 'none'], Mode: XX
+[2023-09-05 17:27:13.012]  [2023-09-05 17:27:13.012] ==============================================
+[2023-09-05 17:27:13.013]  [2023-09-05 17:27:13.013] ['DEBUG_3' 'null' 'none' 'none' 'none' 'none'], Page Requested: null, Current Session Page: 0
+[2023-09-05 17:27:13.013]  [2023-09-05 17:27:13.013] ==============================================
+[2023-09-05 17:27:13.013]  [2023-09-05 17:27:13.013] ['DEBUG_3' 'null' 'none' 'none' 'none' 'none'], Presentation Type Requested: 
+[2023-09-05 17:27:13.016]  [2023-09-05 17:27:13.016] ==============================================
+[2023-09-05 17:27:13.016]  [2023-09-05 17:27:13.016] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'none' 'none' 'none' 'none'], Setting up new session.
+[2023-09-05 17:27:13.016]  [2023-09-05 17:27:13.016] ==============================================
+[2023-09-05 17:27:13.016]  [2023-09-05 17:27:13.016] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'none' 'none' 'none' 'none'], Setting up session info.
+[2023-09-05 17:27:13.016]  [2023-09-05 17:27:13.016] ==============================================
+[2023-09-05 17:27:13.016]  [2023-09-05 17:27:13.016] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'none' 'none' 'none' 'none'], Presentation Type Name: gitsample
+[2023-09-05 17:27:13.017]  [2023-09-05 17:27:13.016] ==============================================
+[2023-09-05 17:27:13.017]  [2023-09-05 17:27:13.017] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'none' 'none' 'none'], Product Name: gitsample
+[2023-09-05 17:27:13.022]  [2023-09-05 17:27:13.022] ==============================================
+[2023-09-05 17:27:13.022]  [2023-09-05 17:27:13.022] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Property not found : usePushNotifications
+[2023-09-05 17:27:13.022]  [2023-09-05 17:27:13.022] ==============================================
+[2023-09-05 17:27:13.022]  [2023-09-05 17:27:13.022] ['DEBUG_4' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Process Mode for Security called: p_applicationMode=XX
+[2023-09-05 17:27:13.037]  [2023-09-05 17:27:13.037] ==============================================
+[2023-09-05 17:27:13.037]  [2023-09-05 17:27:13.037] ['DEBUG_4' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Process Mode called: p_applicationMode=XX
+[2023-09-05 17:27:13.041]  [2023-09-05 17:27:13.041] ==============================================
+[2023-09-05 17:27:13.041]  [2023-09-05 17:27:13.041] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Showing phase name: gitsample.gitsample
+[2023-09-05 17:27:13.093]  [2023-09-05 17:27:13.093] ==============================================
+[2023-09-05 17:27:13.093]  [2023-09-05 17:27:13.093] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Property not found : isHybrid
+[2023-09-05 17:27:13.108]  [2023-09-05 17:27:13.108] ==============================================
+[2023-09-05 17:27:13.108]  [2023-09-05 17:27:13.108] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Property not found : isHybrid
+[2023-09-05 17:27:14.050]  [2023-09-05 17:27:14.049] ==============================================
+[2023-09-05 17:27:14.050]  [2023-09-05 17:27:14.050] ['DEBUG_4' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Query String null
+[2023-09-05 17:27:14.050]  [2023-09-05 17:27:14.050] ==============================================
+[2023-09-05 17:27:14.051]  [2023-09-05 17:27:14.050] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Mode: __1F6A5939111E539D FormButton 1
+[2023-09-05 17:27:14.051]  [2023-09-05 17:27:14.051] ==============================================
+[2023-09-05 17:27:14.051]  [2023-09-05 17:27:14.051] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Page Requested: 0, Current Session Page: 0
+[2023-09-05 17:27:14.051]  [2023-09-05 17:27:14.051] ==============================================
+[2023-09-05 17:27:14.051]  [2023-09-05 17:27:14.051] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Presentation Type Requested: null
+[2023-09-05 17:27:14.051]  [2023-09-05 17:27:14.051] ==============================================
+[2023-09-05 17:27:14.051]  [2023-09-05 17:27:14.051] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Property not found : usePushNotifications
+[2023-09-05 17:27:14.051]  [2023-09-05 17:27:14.051] ==============================================
+[2023-09-05 17:27:14.051]  [2023-09-05 17:27:14.051] ['DEBUG_4' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Process Mode for Security called: p_applicationMode=__1F6A5939111E539D FormButton 1
+[2023-09-05 17:27:14.052]  [2023-09-05 17:27:14.052] ==============================================
+[2023-09-05 17:27:14.052]  [2023-09-05 17:27:14.052] ['DEBUG_4' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Process Mode called: p_applicationMode=__1F6A5939111E539D FormButton 1
+[2023-09-05 17:27:14.052]  [2023-09-05 17:27:14.052] ==============================================
+[2023-09-05 17:27:14.052]  [2023-09-05 17:27:14.052] ['DEBUG_4' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'none'], Button/Nav Item/Breadcrumb with name 1F6A5939111E539D FormButton 1 pressed.
+[2023-09-05 17:27:14.053]  [2023-09-05 17:27:14.052] ==============================================
+[2023-09-05 17:27:14.053]  [2023-09-05 17:27:14.053] ['DEBUG_4' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'Goto Phase' 'Rules Engine'], Evaluating rule Goto Phase with Go Forward to a Named Phase: Phase 'gitsample.gitcomponet'
+[2023-09-05 17:27:14.053]  [2023-09-05 17:27:14.053] ==============================================
+[2023-09-05 17:27:14.053]  [2023-09-05 17:27:14.053] ['DEBUG_4' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitsample' 'Goto Phase' 'Goto Phase Rule: Goto Phase'], Adding named phase gitsample.gitcomponet to stack.
+[2023-09-05 17:27:14.057]  [2023-09-05 17:27:14.057] ==============================================
+[2023-09-05 17:27:14.058]  [2023-09-05 17:27:14.057] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitcomponet' 'none'], Loading library from D:/gitsamplecode/Component/gitcomponent/gitcomponent.ifp
+
+Invoker(s): ServletWorker@7cfbdebf FormSession@1aa197 Current Phase="gitsample.gitcomponet@1!0"
+[2023-09-05 17:27:14.109]  [2023-09-05 17:27:14.109] D:/gitsamplecode/Component/gitcomponent/html/css/Default.css [36,37] - Error in expression. (Invalid token " ". Was expecting one of: <NUMBER>, "inherit", <IDENT>, <STRING>, <HASH>, <EMS>, <EXS>, <LENGTH_PX>, <LENGTH_CM>, <LENGTH_MM>, <LENGTH_IN>, <LENGTH_PT>, <LENGTH_PC>, <ANGLE_DEG>, <ANGLE_RAD>, <ANGLE_GRAD>, <TIME_MS>, <TIME_S>, <FREQ_HZ>, <FREQ_KHZ>, <RESOLUTION_DPI>, <RESOLUTION_DPCM>, <PERCENTAGE>, <DIMENSION>, <UNICODE_RANGE>, <URI>, <FUNCTION>, "progid:".)
+[2023-09-05 17:27:14.139]  [2023-09-05 17:27:14.139] ==============================================
+[2023-09-05 17:27:14.139]  [2023-09-05 17:27:14.139] ['DEBUG_4' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitcomponet' 'none'], Copying data from invoker to component using the input mappings. Invoker: ServletWorker@7cfbdebf FormSession@1aa197 Current Phase="gitsample.gitcomponet@1!0" Component: C1__PhaseComponentWorker@4619458 ComponentSession@4c1a02d4 Library="gitcomponent"  InvokerComponentInterface="Component Phase: gitsample.gitcomponet"
+[2023-09-05 17:27:14.195]  [2023-09-05 17:27:14.195] ==============================================
+[2023-09-05 17:27:14.195]  [2023-09-05 17:27:14.195] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'none' 'gitcomponent:none' 'none' 'none'], Setting up session info.
+[2023-09-05 17:27:14.195]  [2023-09-05 17:27:14.195] ==============================================
+[2023-09-05 17:27:14.195]  [2023-09-05 17:27:14.195] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'none' 'gitcomponent:none' 'none' 'none'], Presentation Type Name: gitcomponent
+[2023-09-05 17:27:14.195]  [2023-09-05 17:27:14.195] ==============================================
+[2023-09-05 17:27:14.195]  [2023-09-05 17:27:14.195] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitcomponent' 'gitcomponent:none' 'none' 'none'], Product Name: GitComponet
+[2023-09-05 17:27:14.195]  [2023-09-05 17:27:14.195] ==============================================
+[2023-09-05 17:27:14.195]  [2023-09-05 17:27:14.195] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitcomponent' 'gitcomponent:GitComponet' 'gitcomponent' 'none'], Property not found : usePushNotifications
+[2023-09-05 17:27:14.196]  [2023-09-05 17:27:14.196] ==============================================
+[2023-09-05 17:27:14.196]  [2023-09-05 17:27:14.196] ['DEBUG_4' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitcomponent' 'gitcomponent:GitComponet' 'gitcomponent' 'none'], Process Mode called: p_applicationMode=X
+[2023-09-05 17:27:14.196]  [2023-09-05 17:27:14.196] ==============================================
+[2023-09-05 17:27:14.197]  [2023-09-05 17:27:14.197] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitcomponet' 'none'], Showing phase name: gitsample.gitcomponet
+[2023-09-05 17:27:14.201]  [2023-09-05 17:27:14.200] ==============================================
+[2023-09-05 17:27:14.201]  [2023-09-05 17:27:14.201] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitcomponet' 'none'], Property not found : isHybrid
+[2023-09-05 17:27:14.203]  [2023-09-05 17:27:14.203] ==============================================
+[2023-09-05 17:27:14.203]  [2023-09-05 17:27:14.203] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitcomponent' 'gitcomponent:GitComponet' 'gitcomponent' 'none'], Showing phase name: GitComponet.gitcomponent
+[2023-09-05 17:27:14.213]  [2023-09-05 17:27:14.213] ==============================================
+[2023-09-05 17:27:14.213]  [2023-09-05 17:27:14.213] ['DEBUG_3' 'node017bj14q34kfd1b9b49jll5ocv0' 'gitsample' 'gitsample' 'gitcomponet' 'none'], Property not found : isHybrid

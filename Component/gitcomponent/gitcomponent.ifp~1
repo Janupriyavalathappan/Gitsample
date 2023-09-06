@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><Project AllowEditFromSolution="Y" BranchName="TRUNK" BranchPrefix="1" CheckedInChangeSetsSinceGetLatest="" CmsFlag="N" Connect="version 7.0.2__14" ContainerID="12140" HybridFlag="N" ImportsClassType="com.acquire.intelligentforms.entities.mapping.ImportRecordRoot" ImportsName="Import Records Root" Name="gitcomponent" ParentId="12001" ProjectExtension=".ifp" ProjectType="Y" StatefulComponent="N" eid="99FD682CD190C62E1027" projectid="12139" uid="12141" version_no="1"><![CDATA[
+  ]]>
+  <Types Name="Types Root" eid="99FD682CD190C62E1029" uid="12143" version_no="1"><![CDATA[
+    ]]>
+    <Lists Name="Lists" eid="99FD682CD190C62E1173" uid="12145" version_no="1"/>
+    <DataTypes Name="Data Types" eid="99FD682CD190C62E1174" uid="12147" version_no="1"><![CDATA[
+      ]]>
+      <DataType Name="Text" eid="99FD682CD190C62E1175" uid="12149" version_no="1"/>
+      <DataType Name="Number" Type="Number" eid="99FD682CD190C62E1176" uid="12151" version_no="1"/>
+      <DataType Name="Decimal" Type="Decimal" eid="99FD682CD190C62E1177" uid="12153" version_no="1"/>
+      <DataType Name="Date" Type="Date" eid="99FD682CD190C62E1178" uid="12155" version_no="1"/>
+      <DataType Name="File" Type="File" eid="99FD682CD190C62E1179" uid="12157" version_no="1"/>
+      <CustomType MaxFieldLength="60" MinFieldLength="0" Name="Email" RegularExpression="^([a-zA-Z0-9_\.\-]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$" Type="Text" ValidationType="Regular Expression" eid="99FD682CD190C62E1180" uid="12159" version_no="1"/>
+    </DataTypes>
+    <Structures Name="Data Structures" eid="99FD682CD190C62E1181" uid="12161" version_no="1"/>
+  </Types>
+  <Dictionary Name="99FD682CD190C62E DataDictionary 1" eid="99FD682CD190C62E1030" uid="12163" version_no="1"><![CDATA[
+    ]]>
+    <PropertyGroup Name="Data Store Root" eid="99FD682CD190C62E1032" uid="12165" version_no="1"/>
+  </Dictionary>
+  <DataMapping Name="Integration Root" eid="99FD682CD190C62E1036" uid="12167" version_no="1"><![CDATA[
+    ]]>
+    <DataSource ClassType="com.acquire.intelligentforms.entities.log.DebugLogDataSource" FileName="logs/Debug.log" FileRotation="New log file at file size limit" Name="Connect DebugLog" NewPerSize="512" eid="99FD682CD190C62E1185" uid="12169" version_no="1"/>
+    <DataSource ClassType="com.acquire.intelligentforms.entities.log.SyserrLogDataSource" FileName="logs/Syserr.log" FileRotation="New log file each session" Name="Connect SyserrLog" NewPerSize="512" eid="99FD682CD190C62E1186" uid="12171" version_no="1"/>
+    <DataSource ClassType="com.acquire.intelligentforms.entities.log.SysoutLogDataSource" FileName="logs/Sysout.log" FileRotation="New log file each session" Name="Connect SysoutLog" NewPerSize="512" eid="99FD682CD190C62E1187" uid="12173" version_no="1"/>
+    <DataSource ClassType="com.acquire.intelligentforms.entities.log.SecurityLogDataSource" FileName="logs/Security.log" FileRotation="New log file at file size limit" Name="Connect SecurityLog" NewPerSize="512" eid="99FD682CD190C62E1188" uid="12175" version_no="1"/>
+  </DataMapping>
+  <Rules Name="Rules Root" eid="99FD682CD190C62E1034" uid="12177" version_no="1"/>
+  <Products Name="Processes Root" eid="99FD682CD190C62E1038" uid="12179" version_no="1"/>
+  <PresentationTypes Name="Presentation Types Root" eid="99FD682CD190C62E1040" uid="12181" version_no="1"/>
+  <EVANotes Name="Note Root" eid="99FD682CD190C62E1042" uid="12183" version_no="1"><![CDATA[
+    ]]>
+    <EVANoteDefinition Name="ToDo" NoteName="ToDo" StatusRequired="Y" eid="99FD682CD190C62E1182" uid="12185" version_no="1"/>
+    <EVANoteDefinition Name="Specification" NoteName="Specification" StatusRequired="N" eid="99FD682CD190C62E1183" uid="12187" version_no="1"/>
+    <EVANoteDefinition Name="Comment" NoteName="Comment" StatusRequired="N" eid="99FD682CD190C62E1184" uid="12189" version_no="1"/>
+  </EVANotes>
+  <LanguageMapDefinitionsRoot Name="Languages Root" eid="99FD682CD190C62E1044" uid="12191" version_no="1"/>
+  <CordovaPluginsRoot Name="CordovaPlugins Root" eid="99FD682CD190C62E1048" uid="12193" version_no="1"/>
+</Project>
